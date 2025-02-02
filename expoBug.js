@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the development server wouldn't start, displaying the error message: "Error: spawn UNKNOWN error". I've checked my network connection, and it's stable. My project dependencies seem fine as well. I've also tried reinstalling Expo CLI but the error persists. 
